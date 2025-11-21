@@ -7,3 +7,4 @@ Objectives:
 
 Lab Assignment:
 - The lab assignment was to create a story map on StoriesOnBoard that highlights a user story map of an application of grocery delivery.
+- We also had to make a readme.txt file that explains our thought process as well as the steps and decisions we made.
