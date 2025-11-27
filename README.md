@@ -1,10 +1,11 @@
-# LAB-1
+User Story Map
 
-Objectives:
-- during this lab we explore the how to use GitHub and what are the uses for it.
-- we also explored Low Profility Prototypes
-- learned User Story Mapping and worked with StoriesOnBoard
+Objectives of the Project:
 
-Lab Assignment:
-- The lab assignment was to create a story map on StoriesOnBoard that highlights a user story map of an application of grocery delivery.
-- We also had to make a readme.txt file that explains our thought process as well as the steps and decisions we made.
+- Explore the how to use GitHub and what are the uses for it
+- Learned User Story Mapping and work with StoriesOnBoard
+
+Project:
+
+- to create a story map on StoriesOnBoard that highlights a user story map of an application of a grocery delivery application
+- make a readme.txt file that explains thought process as well as the steps and decisions made
